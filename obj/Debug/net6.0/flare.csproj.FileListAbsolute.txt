@@ -1,0 +1,17 @@
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.csproj.AssemblyReference.cache
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.AssemblyInfoInputs.cache
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.AssemblyInfo.cs
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.csproj.CoreCompileInputs.cache
+C:\Users\MSI\учеба\flare\bin\Debug\net6.0\flare.exe
+C:\Users\MSI\учеба\flare\bin\Debug\net6.0\flare.deps.json
+C:\Users\MSI\учеба\flare\bin\Debug\net6.0\flare.runtimeconfig.json
+C:\Users\MSI\учеба\flare\bin\Debug\net6.0\flare.dll
+C:\Users\MSI\учеба\flare\bin\Debug\net6.0\flare.pdb
+C:\Users\MSI\учеба\flare\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.csproj.CopyComplete
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.dll
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\refint\flare.dll
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.pdb
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\flare.genruntimeconfig.cache
+C:\Users\MSI\учеба\flare\obj\Debug\net6.0\ref\flare.dll
